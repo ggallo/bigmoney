@@ -1,0 +1,10 @@
+ls -l
+style
+style p
+crappy command
+ls -l ; ps ax ; echo goodstuff
+style s ; style p; style s
+echo goodjob!
+pwd;date|wc;    
+
+
